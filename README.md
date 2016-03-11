@@ -1,4 +1,4 @@
-                                                virtual classroom
+                                               virtual classroom
 # OVERVIEW
 The Virtual Classroom is a collaborative teaching tool to assist the students to learn in an interactive manner.  It aims to complement the efforts of teachers to integrate technology into their classrooms and link the students to the Internet in educationally productive ways and provide them a stimulating, positive and enjoyable environment to study.
 
@@ -27,21 +27,49 @@ a) Edit Profile:
 		d) Answers:
 			It enables teachers to answer the questions asked by the students
 
-
 # DATA
 We have taken student and faculty information from following website https://mysau.saumag.edu/ICS/.
 These are the student and faculty attributes field,type,null,key,default and extra.
 we have written code in html and javascript language.
-
 # PROJECT MANAGEMENT
 Our team consists of three members ,Manoj kumar ratakonda,saikrishna jakkampudi,Ramesh narra.Manoj kumar ratakonda did coding work,while krishna and ramesh did testing part.
 #TEAM
-team  member	                     Roles and skills	                 Contributions
-Manoj kumar ratakonda	          Data analysis; coding	          Data analysis; html and javascript language
-saikrishna jakkampudi       	API development,testing  	     Web API, checking code
-suresh narra	                API development,testing	         Web API,   checking code
+team member: Manoj kumar ratakonda
+Roles and skills:
+Data analysis; coding
+ Contributions:
+ Data analysis; html and javascript language
+#TEAM
+team member: saikrishna and suresh
+Roles and skills:
+API development,testing
+Contributions:
+ Web API,   checking code
+ 
 ## DELIVERABLES AND CHECKPOINTS
- Checkpoint date|        Expected Deliverable|         Responsible team member(s)|         Checkpoint results  
- 2/05/2016            student login information         manoj kumar ratakonda           we got edit profile.videos,douts and answers
- 2/05/2016            faculty login information         krishna and suresh              we got edit profile.videos,douts and answers
+ Checkpoint date: 2/05/2016
+  
+  Expected Deliverable:
+  student login information
+  
+  Responsible team member:
+  manoj kumar ratakonda 
+  
+  Checkpoint results:
+  we got edit profile.videos,douts and answers
+  
+  Checkpoint date: 2/10/2016
+  
+  Expected Deliverable:
+  faculty login information
+  
+  Responsible team member:
+  krishana and suresh
+  
+  Checkpoint results:
+  we got edit profile.videos,douts and answers
 
+# RESEARCH QUESTION
+1.why do we use eclipse tool instead of netbeans?
+
+2.why do not we put chat tool?
