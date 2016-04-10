@@ -1,4 +1,4 @@
-                                                                                         virtual classroom
+                                               virtual classroom
 # OVERVIEW
 The Virtual Classroom is a collaborative teaching tool to assist the students to learn in an interactive manner.  It aims to complement the efforts of teachers to integrate technology into their classrooms and link the students to the Internet in educationally productive ways and provide them a stimulating, positive and enjoyable environment to study.
 
@@ -28,9 +28,13 @@ a) Edit Profile:
 			It enables teachers to answer the questions asked by the students
 
 # DATA
-We have taken student and faculty information from following website https://mysau.saumag.edu/ICS/.
-These are the student and faculty attributes field,type,null,key,default and extra.
-we have written code in html and javascript language.
+It uses students an interactive manner.we designed this tool by using java code.These are the folowing benefits. 
+Increase student engagement with real-time audio-video communication, text chats, and advanced, interactive whiteboards.
+Integrate smoothly with your existing website or LMS (e.g., Moodle, Blackboard, Sakai) using our APIs & plugins.
+Deliver live classes on-the-go from any mobile device using WizIQ Android and iOS apps.
+Manage your classes and students easily with handy features like Attendance Reporting, Recording, and Notifications.
+Reuse lectures recorded by using WizIQ’s recording and secure content facility.
+
 # PROJECT MANAGEMENT
 Our team consists of three members ,Manoj kumar ratakonda,saikrishna jakkampudi,Ramesh narra.Manoj kumar ratakonda did coding work,while krishna and ramesh did testing part.
 #TEAM
@@ -39,7 +43,6 @@ Roles and skills:
 Data analysis; coding
  Contributions:
  Data analysis; html and javascript language
-#TEAM
 team member: saikrishna and suresh
 Roles and skills:
 API development,testing
@@ -70,6 +73,8 @@ Contributions:
   we got edit profile.videos,douts and answers
 
 # RESEARCH QUESTION
-1.why do we use eclipse tool instead of netbeans?
+1.why do not we keep online chatting tool?
 
-2.why do not we put chat tool?
+2.we can keep video chating tool so that students and faculty can access face to face
+
+3.we can implement seperate exam tool with videocam. 
