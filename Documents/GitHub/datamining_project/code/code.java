@@ -1,8 +1,8 @@
 
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1" import="java.sql.*"%>
+    <%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1" import="java.sql.*"%>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+       <html>
 
 <head>
 
@@ -20,7 +20,7 @@ function noBack() { window.history.forward(); } </SCRIPT>
 <table width="960" border="0" cellpadding="0" cellspacing="4" bgcolor="grey">
 <tr>
 
-<td>
+           <td>
 
 <center><img src="D:\New folder\Web Page Header.gif" width="960"height="100" ></center>
 </td>
